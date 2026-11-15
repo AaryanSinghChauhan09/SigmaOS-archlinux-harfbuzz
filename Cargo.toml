@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-harfbuzz component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-harfbuzz"
+name = "sigmaos_archlinux_harfbuzz"
 path = "src/lib.rs"
