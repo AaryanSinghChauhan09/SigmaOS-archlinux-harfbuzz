@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-harfbuzz"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-harfbuzz component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
